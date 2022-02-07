@@ -1,3 +1,26 @@
+
+https://www.youtube.com/watch?v=HptuMAUaNGk&ab_channel=RoadsideCoder
+
 npx create-react-app shopping-cart
 
+https://react-bootstrap.github.io/
+
 npm install react-bootstrap bootstrap@5.0.2
+
+npm install react-icons --save
+
+npm i react-router-dom
+
+versão 6 está um pouco diferente 
+https://reactrouter.com/docs/en/v6/getting-started/overview
+
+
+fakerjs
+
+https://www.npmjs.com/package/faker
+
+npm i faker@5.5.3
+
+useRuducer trabalha com a gerencia de valores do estado. 
+por exemplo tempos o contexto que possui valores. estes valores serão manipulados 
+via useReducer
